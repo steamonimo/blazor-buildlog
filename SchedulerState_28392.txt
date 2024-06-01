@@ -1,0 +1,952 @@
+Scheduler state at timestamp 638528409068466140:
+------------------------------------------------
+Unscheduled requests:
+  0: [-1] Unscheduled (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Scheduler state at timestamp 638528409068545705:
+------------------------------------------------
+Node 1 Active (0 executing) (1 assigned requests, 1 configurations)
+  0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409073266228:
+------------------------------------------------
+Node 1 Active (1 executing) (2 assigned requests, 2 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !1: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_IsProjectRestoreSupported)
+
+  1: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_IsProjectRestoreSupported)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409073728692:
+------------------------------------------------
+Node 1 Active (0 executing) (1 assigned requests, 2 configurations)
+  0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409073911439:
+------------------------------------------------
+Node 1 Active (2 executing) (2 assigned requests, 2 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !2: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+  2: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409073983767:
+------------------------------------------------
+Node 1 Active (3 executing) (3 assigned requests, 3 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+  2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+    !3: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+  3: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+    >2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409075227775:
+------------------------------------------------
+Node 1 Active (4 executing) (4 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+  2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+    !3: [1] RUNNING Blocked (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+  3: [1] RUNNING Blocked (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+    !4: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreProjectPathWalk)
+    >2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+  4: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreProjectPathWalk)
+    >3: [1] RUNNING Blocked (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409075762038:
+------------------------------------------------
+Node 1 Active (3 executing) (3 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+  2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+    !3: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+  3: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+    >2: [1] RUNNING Blocked (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409075818169:
+------------------------------------------------
+Node 1 Active (2 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !2: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+
+  2: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409075876273:
+------------------------------------------------
+Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
+  0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409075916513:
+------------------------------------------------
+Node 1 Active (5 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !6: [1] Unscheduled (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_IsProjectRestoreSupported)
+    !5: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_IsProjectRestoreSupported)
+
+  5: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_IsProjectRestoreSupported)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Unscheduled requests:
+  6: [1] Unscheduled (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_IsProjectRestoreSupported)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Scheduler state at timestamp 638528409075951609:
+------------------------------------------------
+Node 1 Active (6 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !6: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_IsProjectRestoreSupported)
+
+  6: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_IsProjectRestoreSupported)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409075980390:
+------------------------------------------------
+Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
+  0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409076041000:
+------------------------------------------------
+Node 1 Active (7 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !9: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
+    !8: [1] Unscheduled (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreGraphProjectEntry)
+    !7: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreGraphProjectEntry)
+
+  7: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreGraphProjectEntry)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Unscheduled requests:
+  8: [1] Unscheduled (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreGraphProjectEntry)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+  9: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Scheduler state at timestamp 638528409076889547:
+------------------------------------------------
+Node 1 Active (8 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !9: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
+    !8: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreGraphProjectEntry)
+
+  8: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreGraphProjectEntry)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Unscheduled requests:
+  9: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Scheduler state at timestamp 638528409077103826:
+------------------------------------------------
+Node 1 Active (9 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !9: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
+
+  9: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409077306806:
+------------------------------------------------
+Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
+  0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409077338525:
+------------------------------------------------
+Node 1 Active (10 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !12: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
+    !11: [1] Unscheduled (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateProjectRestoreGraph)
+    !10: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateProjectRestoreGraph)
+
+  10: [1] RUNNING Executing (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateProjectRestoreGraph)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Unscheduled requests:
+  11: [1] Unscheduled (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateProjectRestoreGraph)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+  12: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Scheduler state at timestamp 638528409077501443:
+------------------------------------------------
+Node 1 Active (11 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !12: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
+    !11: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateProjectRestoreGraph)
+
+  11: [1] RUNNING Executing (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateProjectRestoreGraph)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Unscheduled requests:
+  12: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+Scheduler state at timestamp 638528409077602189:
+------------------------------------------------
+Node 1 Active (12 executing) (2 assigned requests, 4 configurations)
+  0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+    !12: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
+
+  12: [1] RUNNING Executing (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
+    >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409077701294:
+------------------------------------------------
+Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
+  0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409091236124:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 5 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409093477959:
+------------------------------------------------
+Node 1 Active (14 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !15: [-1] Unscheduled (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    !14: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetTargetFrameworks)
+
+  14: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetTargetFrameworks)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Unscheduled requests:
+  15: [-1] Unscheduled (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Scheduler state at timestamp 638528409095952951:
+------------------------------------------------
+Node 1 Active (14 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !15: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    !14: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetTargetFrameworks)
+
+  14: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetTargetFrameworks)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (15 executing) (1 assigned requests, 1 configurations)
+  15: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409095971974:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !15: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+
+Top-level requests causing this node to be idle:
+  15: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (15 executing) (1 assigned requests, 1 configurations)
+  15: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409112622847:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409113017326:
+------------------------------------------------
+Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !17: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    !16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (17 executing) (1 assigned requests, 1 configurations)
+  17: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409114225474:
+------------------------------------------------
+Node 1 Idle (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !17: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    !16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    !17: [2] RUNNING Unscheduled (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Top-level requests causing this node to be idle:
+  17: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+  17: [2] RUNNING Unscheduled (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+Node 2 Active (17 executing) (1 assigned requests, 1 configurations)
+  17: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Unscheduled requests:
+  17: [2] RUNNING Unscheduled (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+Scheduler state at timestamp 638528409166192954:
+------------------------------------------------
+Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409166257089:
+------------------------------------------------
+Node 1 Idle (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    !18: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetNativeManifest)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Top-level requests causing this node to be idle:
+  18: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetNativeManifest)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+Node 2 Active (18 executing) (1 assigned requests, 1 configurations)
+  18: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetNativeManifest)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409166307292:
+------------------------------------------------
+Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409209380934:
+------------------------------------------------
+Node 1 Idle (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    !19: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetStaticWebAssetsProjectConfiguration)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Top-level requests causing this node to be idle:
+  19: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetStaticWebAssetsProjectConfiguration)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+Node 2 Active (19 executing) (1 assigned requests, 1 configurations)
+  19: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetStaticWebAssetsProjectConfiguration)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409209434117:
+------------------------------------------------
+Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409209488197:
+------------------------------------------------
+Node 1 Idle (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    !20: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCurrentProjectBuildStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Top-level requests causing this node to be idle:
+  20: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCurrentProjectBuildStaticWebAssetItems)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+Node 2 Active (20 executing) (1 assigned requests, 1 configurations)
+  20: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCurrentProjectBuildStaticWebAssetItems)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409209547723:
+------------------------------------------------
+Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409217764226:
+------------------------------------------------
+Node 1 Idle (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    !21: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToOutputDirectoryItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Top-level requests causing this node to be idle:
+  21: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToOutputDirectoryItems)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+Node 2 Active (21 executing) (1 assigned requests, 1 configurations)
+  21: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToOutputDirectoryItems)
+    >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409217837094:
+------------------------------------------------
+Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+
+  16: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409219284517:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409219324313:
+------------------------------------------------
+Node 1 Active (22 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !22: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetNativeManifest)
+
+  22: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetNativeManifest)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409219360496:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409245503857:
+------------------------------------------------
+Node 1 Active (23 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !23: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetStaticWebAssetsProjectConfiguration)
+
+  23: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetStaticWebAssetsProjectConfiguration)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409245537617:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409245574798:
+------------------------------------------------
+Node 1 Active (24 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !24: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCurrentProjectBuildStaticWebAssetItems)
+
+  24: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCurrentProjectBuildStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409245851939:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409251739120:
+------------------------------------------------
+Node 1 Active (25 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !25: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCopyToPublishDirectoryItems)
+    !26: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToPublishDirectoryItems)
+
+  25: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCopyToPublishDirectoryItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (26 executing) (1 assigned requests, 1 configurations)
+  26: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToPublishDirectoryItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409251850569:
+------------------------------------------------
+Node 1 Active (25 executing) (2 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !25: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCopyToPublishDirectoryItems)
+
+  25: [1] RUNNING Executing (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCopyToPublishDirectoryItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409252386081:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 1 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409252480889:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (27 executing) (1 assigned requests, 2 configurations)
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409254876578:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  28: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Node 2 Active (28 executing) (2 assigned requests, 3 configurations)
+  27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    !28: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+  28: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409255325898:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409255835336:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  29: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetPath)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Node 2 Active (29 executing) (2 assigned requests, 3 configurations)
+  27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    !29: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetPath)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+  29: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetPath)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409255882317:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409258170027:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  30: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToPublishDirectoryItems)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Node 2 Active (30 executing) (2 assigned requests, 3 configurations)
+  27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    !30: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToPublishDirectoryItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+  30: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToPublishDirectoryItems)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409258325557:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409447964356:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  31: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Node 2 Active (31 executing) (2 assigned requests, 3 configurations)
+  27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    !31: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+  31: [2] RUNNING Executing (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+    >27: [2] RUNNING Blocked (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409448235967:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
+  27: [2] RUNNING Executing (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409463521857:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 3 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409463884003:
+------------------------------------------------
+Node 1 Idle (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+    !32: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+
+Top-level requests causing this node to be idle:
+  32: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Active (32 executing) (1 assigned requests, 3 configurations)
+  32: [2] RUNNING Executing (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+    >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+No unscheduled requests.
+
+Scheduler state at timestamp 638528409463968210:
+------------------------------------------------
+Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
+  13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+
+Node 2 Idle (0 assigned requests, 3 configurations)
+Top-level requests causing this node to be idle:
+  Node is idle because there is no work available for this node to do.
+
+No unscheduled requests.
+
+Configurations used during this build
+-------------------------------------
+Config 2 Node 1 TV: Current File C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+MSBuildRestoreSessionId = "c455572a-9202-4247-b5c8-614cb0c50806"
+MSBuildIsRestoring = "True"
+
+Config 3 Node 1 TV: Current File C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+MSBuildRestoreSessionId = "c455572a-9202-4247-b5c8-614cb0c50806"
+MSBuildIsRestoring = "True"
+ExcludeRestorePackageImports = "true"
+
+Config 4 Node 1 TV: Current File C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+MSBuildRestoreSessionId = "c455572a-9202-4247-b5c8-614cb0c50806"
+MSBuildIsRestoring = "True"
+ExcludeRestorePackageImports = "true"
+
+Config 5 Node 1 TV: Current File C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+MSBuildRestoreSessionId = "c455572a-9202-4247-b5c8-614cb0c50806"
+MSBuildIsRestoring = "True"
+ExcludeRestorePackageImports = "true"
+
+Config 6 Node 1 TV: Current File C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+
+Config 7 Node 1 TV: Current File C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+
+Config 8 Node 2 TV: Current File C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+
+Config 9 Node 2 TV: Current File C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+_PublishingBlazorWasmProject = "true"
+BuildProjectReferences = "false"
+ResolveAssemblyReferencesFindRelatedSatellites = "true"
+
+Config 10 Node 2 TV: Current File C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj
+_IsPublishing = "true"
+PublishDir = "C:\Development\dqs\CoeDQS_publish"
+_CommandLineDefinedOutputPath = "true"
+Configuration = "Release"
+DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
+_PublishingBlazorWasmProject = "true"
+BuildProjectReferences = "false"
+ResolveAssemblyReferencesFindRelatedSatellites = "true"
+
+Requests used during the build:
+-------------------------------
+Format: GlobalRequestId: [NodeId] FinalState (ConfigId) Path (Targets)
+0: [1] Completed (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
+  1: [1] Completed (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_IsProjectRestoreSupported)
+  2: [1] Completed (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreProjectPathWalk)
+    3: [1] Completed (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreProjectPathWalk)
+      4: [1] Completed (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreProjectPathWalk)
+  6: [1] Completed (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_IsProjectRestoreSupported)
+  5: [1] Completed (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_IsProjectRestoreSupported)
+  9: [1] Completed (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
+  8: [1] Completed (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateRestoreGraphProjectEntry)
+  7: [1] Completed (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateRestoreGraphProjectEntry)
+  12: [1] Completed (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
+  11: [1] Completed (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_GenerateProjectRestoreGraph)
+  10: [1] Completed (4)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (_GenerateProjectRestoreGraph)
+13: [1] Completed (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
+  15: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+  14: [1] Completed (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetTargetFrameworks)
+  17: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+  16: [1] Completed (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
+    17: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
+    18: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetNativeManifest)
+    19: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetStaticWebAssetsProjectConfiguration)
+    20: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCurrentProjectBuildStaticWebAssetItems)
+    21: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToOutputDirectoryItems)
+  22: [1] Completed (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetNativeManifest)
+  23: [1] Completed (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetStaticWebAssetsProjectConfiguration)
+  24: [1] Completed (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCurrentProjectBuildStaticWebAssetItems)
+  26: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToPublishDirectoryItems)
+  25: [1] Completed (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (GetCopyToPublishDirectoryItems)
+  27: [2] Completed (9)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj (ComputeFilesToPublish, GetCurrentProjectPublishStaticWebAssetItems)
+    28: [2] Completed (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
+    29: [2] Completed (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetPath)
+    30: [2] Completed (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetCopyToPublishDirectoryItems)
+    31: [2] Completed (10)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+  32: [2] Completed (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (ComputeReferencedStaticWebAssetsPublishManifest, GetCurrentProjectPublishStaticWebAssetItems)
+Configurations used during this build
+-------------------------------------
+Requests used during the build:
+-------------------------------
+Format: GlobalRequestId: [NodeId] FinalState (ConfigId) Path (Targets)
