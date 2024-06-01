@@ -2,9 +2,9 @@
 
 ## versions
 
-visual studio: 17.10.1
-dotnet --version: 8.0.300
-affected project: blazor
+* visual studio: 17.10.1
+* dotnet --version: 8.0.300
+* affected project: blazor
 
 ## build command to publish
 
