@@ -12,6 +12,7 @@ dotnet publish -c Release -o c:\iis-publish
 
 ## errors in edge 125.0.2535.67
 
+```javascript
 dotnet.js:3  MONO_WASM: TypeError: Cannot read properties of undefined (reading 'out')
     at $l (http://localhost/_framework/dotnet.runtime.8.0.5.8hv7wyhg5a.js:3:198913)
     at ze (http://localhost/_framework/dotnet.js:3:30895)
@@ -333,3 +334,5 @@ An @ blazor.webassembly.js:1
 (anonym) @ blazor.webassembly.js:1
 (anonym) @ blazor.webassembly.js:1
 localhost/:1  Refused to load the image 'http://localhost/favicon.ico' because it violates the following Content Security Policy directive: "img-src data: https:".
+```
+```
