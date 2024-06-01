@@ -5,12 +5,13 @@
 * visual studio: 17.10.1
 * dotnet --version: 8.0.300
 * affected project: blazor
+* edge: 125.0.2535.67
 
 ## build command to publish
 
 dotnet publish -c Release -o c:\iis-publish
 
-## errors in edge 125.0.2535.67
+## errors in edge
 
 ```javascript
 dotnet.js:3  MONO_WASM: TypeError: Cannot read properties of undefined (reading 'out')
