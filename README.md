@@ -5,7 +5,7 @@
 * visual studio: 17.10.1
 * dotnet --version: 8.0.300
 * affected project: blazor
-* edge: 125.0.2535.67
+* edge: 125.0.2535.79
 
 ## build command to publish
 
