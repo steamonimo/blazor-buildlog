@@ -13,3 +13,8 @@ OutOfProc Endpoint Packet Pump (TID 6) 638533591445730565 +    0,2115ms: Ending 
  (TID 1) 638533591445735513 +    0,4948ms: Changing link status from Failed to Inactive
  (TID 1) 638533591446053111 +   31,7598ms: Shut down complete.
 OutOfProc Endpoint Packet Pump (TID 14) 638533591446091575 +    3,8464ms: Waiting for connection 900000 ms...
+OutOfProc Endpoint Packet Pump (TID 14) 638533600442516222 +  899642,5ms: Connection timed out waiting a host to contact us.  Exiting comm thread.
+OutOfProc Endpoint Packet Pump (TID 14) 638533600442521935 +    0,5713ms: Changing link status from Inactive to ConnectionFailed
+ (TID 1) 638533600442525649 +    0,3714ms: Shutting down with reason: ConnectionFailed, and exception: .
+ (TID 1) 638533600442534257 +    0,8608ms: Changing link status from ConnectionFailed to Inactive
+ (TID 1) 638533600442693827 +    15,957ms: Shut down complete.

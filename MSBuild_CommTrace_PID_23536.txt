@@ -1,0 +1,20 @@
+.NET TP Worker (TID 17) 638533604058670576 +    0,6468ms: Starting to acquire 1 new or existing node(s) to establish nodes from ID 2 to 2...
+.NET TP Worker (TID 17) 638533604058691311 +    2,0735ms: Building handshake for node type X64, NodeReuse, (version 1): options 16777228.
+.NET TP Worker (TID 17) 638533604058694511 +      0,32ms: Handshake salt is 
+.NET TP Worker (TID 17) 638533604058696966 +    0,2455ms: Tools directory root is C:\Program Files\dotnet\sdk\8.0.300
+.NET TP Worker (TID 17) 638533604058873809 +   17,6843ms: Attempting to connect to 1 existing processes 'dotnet'...
+.NET TP Worker (TID 17) 638533604058902075 +    2,8266ms: Trying to connect to existing process dotnet with id 23536 to establish node 2...
+.NET TP Worker (TID 17) 638533604058905971 +    0,3896ms: Could not connect to existing process, now creating a process...
+.NET TP Worker (TID 17) 638533604058914704 +    0,8733ms: Launching node from C:\Program Files\dotnet\sdk\8.0.300\MSBuild.dll
+.NET TP Worker (TID 17) 638533604059004884 +     9,018ms: Successfully launched C:\Program Files\dotnet\dotnet.exe node with PID 29828
+.NET TP Worker (TID 17) 638533604059032250 +    2,7366ms: Attempting connect to PID 29828 with pipe MSBuild29828 with timeout 30000 ms
+.NET TP Worker (TID 17) 638533604060529600 +   149,735ms: Writing handshake part 0 (16777228) to pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060543031 +    1,3431ms: Writing handshake part 1 (852605376) to pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060548133 +    0,5102ms: Writing handshake part 2 (17) to pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060552402 +    0,4269ms: Writing handshake part 3 (10) to pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060557710 +    0,5308ms: Writing handshake part 4 (4) to pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060561594 +    0,3884ms: Writing handshake part 5 (21802) to pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060564925 +    0,3331ms: Writing handshake part 6 (1) to pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060568449 +    0,3524ms: Reading handshake from pipe MSBuild29828
+.NET TP Worker (TID 17) 638533604060712411 +   14,3962ms: Successfully connected to pipe MSBuild29828...!
+.NET TP Worker (TID 17) 638533604060714826 +    0,2415ms: Successfully connected to created node 2 which is PID 29828
