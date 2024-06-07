@@ -1,0 +1,191 @@
+.NET TP Worker(7)-638533591022214312: Received request 0 (node request 0) with parent -1 from node -1
+.NET TP Worker(7)-638533591022214312: Requesting creation of new node satisfying affinity InProc
+.NET TP Worker(7)-638533591022214312: Requests scheduled: 0 Unassigned Requests: 1 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/0 Responses: 1
+.NET TP Worker(7)-638533591022320883: Node 1 created
+.NET TP Worker(7)-638533591022320883: Executing request 0 on node 1 with parent -1
+.NET TP Worker(7)-638533591022320883: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(33)-638533591028148359: Received request 1 (node request 1) with parent 0 from node 1
+.NET TP Worker(33)-638533591028148359: Executing request 1 on node 1 with parent 0
+.NET TP Worker(33)-638533591028148359: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(22)-638533591028616716: Reporting result from node 1 for request 1, parent 0.
+.NET TP Worker(22)-638533591028616716: Unblocking request 0 on node 1
+.NET TP Worker(22)-638533591028616716: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(31)-638533591028931190: Received request 2 (node request 2) with parent 0 from node 1
+.NET TP Worker(31)-638533591028931190: Executing request 2 on node 1 with parent 0
+.NET TP Worker(31)-638533591028931190: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(33)-638533591029018968: Received request 3 (node request 3) with parent 2 from node 1
+.NET TP Worker(33)-638533591029018968: Executing request 3 on node 1 with parent 2
+.NET TP Worker(33)-638533591029018968: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(22)-638533591030306075: Received request 4 (node request 4) with parent 3 from node 1
+.NET TP Worker(22)-638533591030306075: Executing request 4 on node 1 with parent 3
+.NET TP Worker(22)-638533591030306075: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 3 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(34)-638533591030835629: Reporting result from node 1 for request 4, parent 3.
+.NET TP Worker(34)-638533591030835629: Unblocking request 3 on node 1
+.NET TP Worker(34)-638533591030835629: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(34)-638533591030897891: Reporting result from node 1 for request 3, parent 2.
+.NET TP Worker(34)-638533591030897891: Unblocking request 2 on node 1
+.NET TP Worker(34)-638533591030897891: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(35)-638533591030966490: Reporting result from node 1 for request 2, parent 0.
+.NET TP Worker(35)-638533591030966490: Unblocking request 0 on node 1
+.NET TP Worker(35)-638533591030966490: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(35)-638533591031005678: Received request 5 (node request 5) with parent 0 from node 1
+.NET TP Worker(35)-638533591031005678: Received request 6 (node request 6) with parent 0 from node 1
+.NET TP Worker(35)-638533591031005678: Executing request 5 on node 1 with parent 0
+.NET TP Worker(35)-638533591031005678: Requests scheduled: 1 Unassigned Requests: 1 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(35)-638533591031038303: Reporting result from node 1 for request 5, parent 0.
+.NET TP Worker(35)-638533591031038303: Executing request 6 on node 1 with parent 0
+.NET TP Worker(35)-638533591031038303: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(35)-638533591031070237: Reporting result from node 1 for request 6, parent 0.
+.NET TP Worker(35)-638533591031070237: Unblocking request 0 on node 1
+.NET TP Worker(35)-638533591031070237: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(35)-638533591031135265: Received request 7 (node request 8) with parent 0 from node 1
+.NET TP Worker(35)-638533591031135265: Received request 8 (node request 9) with parent 0 from node 1
+.NET TP Worker(35)-638533591031135265: Received request 9 (node request 10) with parent 0 from node 1
+.NET TP Worker(35)-638533591031135265: Executing request 7 on node 1 with parent 0
+.NET TP Worker(35)-638533591031135265: Requests scheduled: 1 Unassigned Requests: 2 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(22)-638533591032132820: Reporting result from node 1 for request 7, parent 0.
+.NET TP Worker(22)-638533591032132820: Executing request 8 on node 1 with parent 0
+.NET TP Worker(22)-638533591032132820: Requests scheduled: 1 Unassigned Requests: 1 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(32)-638533591032375178: Reporting result from node 1 for request 8, parent 0.
+.NET TP Worker(32)-638533591032375178: Executing request 9 on node 1 with parent 0
+.NET TP Worker(32)-638533591032375178: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(11)-638533591032879861: Reporting result from node 1 for request 9, parent 0.
+.NET TP Worker(11)-638533591032879861: Unblocking request 0 on node 1
+.NET TP Worker(11)-638533591032879861: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(11)-638533591032907615: Received request 10 (node request 11) with parent 0 from node 1
+.NET TP Worker(11)-638533591032907615: Received request 11 (node request 12) with parent 0 from node 1
+.NET TP Worker(11)-638533591032907615: Received request 12 (node request 13) with parent 0 from node 1
+.NET TP Worker(11)-638533591032907615: Executing request 10 on node 1 with parent 0
+.NET TP Worker(11)-638533591032907615: Requests scheduled: 1 Unassigned Requests: 2 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(32)-638533591032978812: Reporting result from node 1 for request 10, parent 0.
+.NET TP Worker(32)-638533591032978812: Executing request 11 on node 1 with parent 0
+.NET TP Worker(32)-638533591032978812: Requests scheduled: 1 Unassigned Requests: 1 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(35)-638533591033049008: Reporting result from node 1 for request 11, parent 0.
+.NET TP Worker(35)-638533591033049008: Executing request 12 on node 1 with parent 0
+.NET TP Worker(35)-638533591033049008: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(11)-638533591033117920: Reporting result from node 1 for request 12, parent 0.
+.NET TP Worker(11)-638533591033117920: Unblocking request 0 on node 1
+.NET TP Worker(11)-638533591033117920: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(21)-638533591047466204: Reporting result from node 1 for request 0, parent -1.
+.NET TP Worker(21)-638533591047466204: Build complete
+.NET TP Worker(21)-638533591047509348: Received request 13 (node request 0) with parent -1 from node -1
+.NET TP Worker(21)-638533591047509348: Executing request 13 on node 1 with parent -1
+.NET TP Worker(21)-638533591047509348: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 1
+.NET TP Worker(21)-638533591051520773: Received request 14 (node request 14) with parent 13 from node 1
+.NET TP Worker(21)-638533591051520773: Received request 15 (node request 15) with parent 13 from node 1
+.NET TP Worker(21)-638533591051520773: Executing request 14 on node 1 with parent 13
+.NET TP Worker(21)-638533591051520773: Requesting creation of 1 new node(s) satisfying affinity OutOfProc
+.NET TP Worker(21)-638533591051520773: Requests scheduled: 1 Unassigned Requests: 1 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/1 Responses: 2
+.NET TP Worker(21)-638533591055244634: Node 2 created
+.NET TP Worker(21)-638533591055244634: Executing request 15 on node 2 with parent 13
+.NET TP Worker(21)-638533591055244634: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/2 Responses: 1
+.NET TP Worker(21)-638533591055263575: Reporting result from node 1 for request 14, parent 13.
+.NET TP Worker(21)-638533591055263575: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(36)-638533591062327337: Reporting result from node 2 for request 15, parent 13.
+.NET TP Worker(36)-638533591062327337: Unblocking request 13 on node 1
+.NET TP Worker(36)-638533591062327337: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(36)-638533591062717830: Received request 16 (node request 16) with parent 13 from node 1
+.NET TP Worker(36)-638533591062717830: Received request 17 (node request 17) with parent 13 from node 1
+.NET TP Worker(36)-638533591062717830: Executing request 17 on node 2 with parent 13
+.NET TP Worker(36)-638533591062717830: Executing request 16 on node 1 with parent 13
+.NET TP Worker(36)-638533591062717830: Requests scheduled: 2 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/2 Responses: 2
+.NET TP Worker(28)-638533591063820187: Received request 17 (node request 19) with parent 16 from node 1
+.NET TP Worker(28)-638533591063820187: Requests scheduled: 0 Unassigned Requests: 1 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 0
+.NET TP Worker(29)-638533591116729248: Reporting result from node 2 for request 17, parent 13.
+.NET TP Worker(29)-638533591116729248: Request 17 (node request 19) also satisfied by result.
+.NET TP Worker(29)-638533591116729248: Request 17 (node request 19) with targets () satisfied from cache
+.NET TP Worker(29)-638533591116729248: Unblocking request 16 on node 1
+.NET TP Worker(29)-638533591116729248: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 3
+.NET TP Worker(29)-638533591116783703: Received request 18 (node request 20) with parent 16 from node 1
+.NET TP Worker(29)-638533591116783703: Executing request 18 on node 2 with parent 16
+.NET TP Worker(29)-638533591116783703: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(29)-638533591116831176: Reporting result from node 2 for request 18, parent 16.
+.NET TP Worker(29)-638533591116831176: Unblocking request 16 on node 1
+.NET TP Worker(29)-638533591116831176: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(36)-638533591152429799: Received request 19 (node request 21) with parent 16 from node 1
+.NET TP Worker(36)-638533591152429799: Executing request 19 on node 2 with parent 16
+.NET TP Worker(36)-638533591152429799: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(29)-638533591152492589: Reporting result from node 2 for request 19, parent 16.
+.NET TP Worker(29)-638533591152492589: Unblocking request 16 on node 1
+.NET TP Worker(29)-638533591152492589: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(29)-638533591152554957: Received request 20 (node request 22) with parent 16 from node 1
+.NET TP Worker(29)-638533591152554957: Executing request 20 on node 2 with parent 16
+.NET TP Worker(29)-638533591152554957: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(36)-638533591152616811: Reporting result from node 2 for request 20, parent 16.
+.NET TP Worker(36)-638533591152616811: Unblocking request 16 on node 1
+.NET TP Worker(36)-638533591152616811: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(51)-638533591160456561: Received request 21 (node request 23) with parent 16 from node 1
+.NET TP Worker(51)-638533591160456561: Executing request 21 on node 2 with parent 16
+.NET TP Worker(51)-638533591160456561: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(51)-638533591160508207: Reporting result from node 2 for request 21, parent 16.
+.NET TP Worker(51)-638533591160508207: Unblocking request 16 on node 1
+.NET TP Worker(51)-638533591160508207: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(51)-638533591161398427: Reporting result from node 1 for request 16, parent 13.
+.NET TP Worker(51)-638533591161398427: Unblocking request 13 on node 1
+.NET TP Worker(51)-638533591161398427: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(51)-638533591161435690: Received request 22 (node request 24) with parent 13 from node 1
+.NET TP Worker(51)-638533591161435690: Executing request 22 on node 1 with parent 13
+.NET TP Worker(51)-638533591161435690: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(51)-638533591161467767: Reporting result from node 1 for request 22, parent 13.
+.NET TP Worker(51)-638533591161467767: Unblocking request 13 on node 1
+.NET TP Worker(51)-638533591161467767: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(52)-638533591185560430: Received request 23 (node request 26) with parent 13 from node 1
+.NET TP Worker(52)-638533591185560430: Executing request 23 on node 1 with parent 13
+.NET TP Worker(52)-638533591185560430: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(52)-638533591185593116: Reporting result from node 1 for request 23, parent 13.
+.NET TP Worker(52)-638533591185593116: Unblocking request 13 on node 1
+.NET TP Worker(52)-638533591185593116: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(54)-638533591185630329: Received request 24 (node request 28) with parent 13 from node 1
+.NET TP Worker(54)-638533591185630329: Executing request 24 on node 1 with parent 13
+.NET TP Worker(54)-638533591185630329: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(52)-638533591185930820: Reporting result from node 1 for request 24, parent 13.
+.NET TP Worker(52)-638533591185930820: Unblocking request 13 on node 1
+.NET TP Worker(52)-638533591185930820: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(36)-638533591191355167: Received request 25 (node request 32) with parent 13 from node 1
+.NET TP Worker(36)-638533591191355167: Received request 26 (node request 33) with parent 13 from node 1
+.NET TP Worker(36)-638533591191355167: Executing request 26 on node 2 with parent 13
+.NET TP Worker(36)-638533591191355167: Executing request 25 on node 1 with parent 13
+.NET TP Worker(36)-638533591191355167: Requests scheduled: 2 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 0/2 Responses: 2
+.NET TP Worker(28)-638533591191804355: Reporting result from node 2 for request 26, parent 13.
+.NET TP Worker(28)-638533591191804355: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(4)-638533591192369167: Reporting result from node 1 for request 25, parent 13.
+.NET TP Worker(4)-638533591192369167: Unblocking request 13 on node 1
+.NET TP Worker(4)-638533591192369167: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(4)-638533591192596601: Received request 27 (node request 35) with parent 13 from node 1
+.NET TP Worker(4)-638533591192596601: Executing request 27 on node 2 with parent 13
+.NET TP Worker(4)-638533591192596601: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(50)-638533591195301198: Received request 28 (node request 1) with parent 27 from node 2
+.NET TP Worker(50)-638533591195301198: Executing request 28 on node 2 with parent 27
+.NET TP Worker(50)-638533591195301198: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(51)-638533591195881398: Reporting result from node 2 for request 28, parent 27.
+.NET TP Worker(51)-638533591195881398: Unblocking request 27 on node 2
+.NET TP Worker(51)-638533591195881398: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(51)-638533591196388211: Received request 29 (node request 2) with parent 27 from node 2
+.NET TP Worker(51)-638533591196388211: Executing request 29 on node 2 with parent 27
+.NET TP Worker(51)-638533591196388211: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(51)-638533591196433914: Reporting result from node 2 for request 29, parent 27.
+.NET TP Worker(51)-638533591196433914: Unblocking request 27 on node 2
+.NET TP Worker(51)-638533591196433914: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(51)-638533591199941083: Received request 30 (node request 3) with parent 27 from node 2
+.NET TP Worker(51)-638533591199941083: Executing request 30 on node 2 with parent 27
+.NET TP Worker(51)-638533591199941083: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(58)-638533591200072377: Reporting result from node 2 for request 30, parent 27.
+.NET TP Worker(58)-638533591200072377: Unblocking request 27 on node 2
+.NET TP Worker(58)-638533591200072377: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(22)-638533591392538388: Received request 31 (node request 4) with parent 27 from node 2
+.NET TP Worker(22)-638533591392538388: Executing request 31 on node 2 with parent 27
+.NET TP Worker(22)-638533591392538388: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 2 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(22)-638533591392879463: Reporting result from node 2 for request 31, parent 27.
+.NET TP Worker(22)-638533591392879463: Unblocking request 27 on node 2
+.NET TP Worker(22)-638533591392879463: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(64)-638533591440006809: Reporting result from node 2 for request 27, parent 13.
+.NET TP Worker(64)-638533591440006809: Unblocking request 13 on node 1
+.NET TP Worker(64)-638533591440006809: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(64)-638533591440227488: Received request 32 (node request 36) with parent 13 from node 1
+.NET TP Worker(64)-638533591440227488: Executing request 32 on node 2 with parent 13
+.NET TP Worker(64)-638533591440227488: Requests scheduled: 1 Unassigned Requests: 0 Blocked Requests: 1 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 1
+.NET TP Worker(22)-638533591440333137: Reporting result from node 2 for request 32, parent 13.
+.NET TP Worker(22)-638533591440333137: Unblocking request 13 on node 1
+.NET TP Worker(22)-638533591440333137: Requests scheduled: 0 Unassigned Requests: 0 Blocked Requests: 0 Unblockable Requests: 0 Free Nodes: 1/2 Responses: 2
+.NET TP Worker(11)-638533591445651323: Reporting result from node 1 for request 13, parent -1.
+.NET TP Worker(11)-638533591445651323: Build complete
