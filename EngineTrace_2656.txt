@@ -1,0 +1,115 @@
+.NET TP Worker(10)-638533788964868483: Request 15(8) (nr 15) received and activated.
+.NET TP Worker(10)-638533788964887868: ERS: Active request is now 15(8) (nr 15).
+.NET TP Worker(10)-638533788964890689: ERS: Active request is now 15(8) (nr 15).
+.NET TP Worker(16)-638533788968201920: ERS: Request 15(8) (nr 15) is marked as complete.
+.NET TP Worker(16)-638533788968204536: ERS: Request 15(8) (nr 15) is being removed from the requests list.
+.NET TP Worker(16)-638533788968211008: ERS: Request is now 15(8) (nr 15) has had its builder cleaned up.
+.NET TP Worker(16)-638533788968212952: RRC: Reporting result for request 15(8) (nr 15).
+.NET TP Worker(17)-638533788968701669: Request 17(8) (nr 17) received and activated.
+.NET TP Worker(17)-638533788968708295: ERS: Active request is now 17(8) (nr 17).
+.NET TP Worker(17)-638533788968711106: ERS: Active request is now 17(8) (nr 17).
+.NET TP Worker(11)-638533788973775099: ERS: Request 17(8) (nr 17) is marked as complete.
+.NET TP Worker(11)-638533788973780779: ERS: Request 17(8) (nr 17) is being removed from the requests list.
+.NET TP Worker(11)-638533788973786168: ERS: Request is now 17(8) (nr 17) has had its builder cleaned up.
+.NET TP Worker(11)-638533788973790809: RRC: Reporting result for request 17(8) (nr 17).
+.NET TP Worker(19)-638533788973885695: Request 18(8) (nr 20) received and activated.
+.NET TP Worker(19)-638533788973888931: ERS: Active request is now 18(8) (nr 20).
+.NET TP Worker(19)-638533788973891565: ERS: Active request is now 18(8) (nr 20).
+.NET TP Worker(19)-638533788973897639: ERS: Request 18(8) (nr 20) is marked as complete.
+.NET TP Worker(19)-638533788973899863: ERS: Request 18(8) (nr 20) is being removed from the requests list.
+.NET TP Worker(19)-638533788973902010: ERS: Request is now 18(8) (nr 20) has had its builder cleaned up.
+.NET TP Worker(19)-638533788973903948: RRC: Reporting result for request 18(8) (nr 20).
+.NET TP Worker(7)-638533788977204057: Request 19(8) (nr 21) received and activated.
+.NET TP Worker(7)-638533788977209526: ERS: Active request is now 19(8) (nr 21).
+.NET TP Worker(7)-638533788977221569: ERS: Active request is now 19(8) (nr 21).
+.NET TP Worker(7)-638533788977225850: ERS: Request 19(8) (nr 21) is marked as complete.
+.NET TP Worker(7)-638533788977229370: ERS: Request 19(8) (nr 21) is being removed from the requests list.
+.NET TP Worker(7)-638533788977233140: ERS: Request is now 19(8) (nr 21) has had its builder cleaned up.
+.NET TP Worker(7)-638533788977235928: RRC: Reporting result for request 19(8) (nr 21).
+.NET TP Worker(19)-638533788977357906: Request 20(8) (nr 22) received and activated.
+.NET TP Worker(19)-638533788977363908: ERS: Active request is now 20(8) (nr 22).
+.NET TP Worker(19)-638533788977367115: ERS: Active request is now 20(8) (nr 22).
+.NET TP Worker(19)-638533788977385848: ERS: Request 20(8) (nr 22) is marked as complete.
+.NET TP Worker(19)-638533788977388542: ERS: Request 20(8) (nr 22) is being removed from the requests list.
+.NET TP Worker(19)-638533788977391563: ERS: Request is now 20(8) (nr 22) has had its builder cleaned up.
+.NET TP Worker(19)-638533788977394039: RRC: Reporting result for request 20(8) (nr 22).
+.NET TP Worker(11)-638533788981301276: Request 21(8) (nr 23) received and activated.
+.NET TP Worker(11)-638533788981308521: ERS: Active request is now 21(8) (nr 23).
+.NET TP Worker(11)-638533788981312405: ERS: Active request is now 21(8) (nr 23).
+.NET TP Worker(11)-638533788981315103: ERS: Request 21(8) (nr 23) is marked as complete.
+.NET TP Worker(11)-638533788981317685: ERS: Request 21(8) (nr 23) is being removed from the requests list.
+.NET TP Worker(11)-638533788981320245: ERS: Request is now 21(8) (nr 23) has had its builder cleaned up.
+.NET TP Worker(11)-638533788981322501: RRC: Reporting result for request 21(8) (nr 23).
+.NET TP Worker(9)-638533789008482568: Request 26(8) (nr 33) received and activated.
+.NET TP Worker(9)-638533789008488915: ERS: Active request is now 26(8) (nr 33).
+.NET TP Worker(9)-638533789008491574: ERS: Active request is now 26(8) (nr 33).
+.NET TP Worker(16)-638533789008566698: ERS: Request 26(8) (nr 33) is marked as complete.
+.NET TP Worker(16)-638533789008570515: ERS: Request 26(8) (nr 33) is being removed from the requests list.
+.NET TP Worker(16)-638533789008573498: ERS: Request is now 26(8) (nr 33) has had its builder cleaned up.
+.NET TP Worker(16)-638533789008576214: RRC: Reporting result for request 26(8) (nr 33).
+.NET TP Worker(9)-638533789009455479: Request 27(9) (nr 35) received and activated.
+.NET TP Worker(9)-638533789009460138: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(9)-638533789009463150: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(9)-638533789012028146: Request 27(9) (nr 35) is waiting on configuration -2 (IBR)
+.NET TP Worker(9)-638533789012033010: Issuing configuration request for node config -2
+.NET TP Worker(9)-638533789012049513: Received configuration response for node config -2, now global config 10.
+.NET TP Worker(9)-638533789012065272: Sending node request 1 (configuration 10) with parent 27 to Build Manager
+.NET TP Worker(16)-638533789012105301: Request 28(10) (nr 1) received and activated.
+.NET TP Worker(16)-638533789012112011: ERS: Active request is now 28(10) (nr 1).
+.NET TP Worker(16)-638533789012114262: ERS: Active request is now 28(10) (nr 1).
+.NET TP Worker(18)-638533789012630196: ERS: Request 28(10) (nr 1) is marked as complete.
+.NET TP Worker(18)-638533789012632678: ERS: Request 28(10) (nr 1) is being removed from the requests list.
+.NET TP Worker(18)-638533789012634665: ERS: Request is now 28(10) (nr 1) has had its builder cleaned up.
+.NET TP Worker(18)-638533789012636408: RRC: Reporting result for request 28(10) (nr 1).
+.NET TP Worker(15)-638533789012738363: Request 27(9) (nr 35) is no longer waiting on nr 1 (UBR).  Results are Success.
+.NET TP Worker(15)-638533789012744950: Request 27(9) (nr 35) is now proceeding from current state Ready.
+.NET TP Worker(15)-638533789012748228: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(15)-638533789012750754: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(15)-638533789013103244: Sending node request 2 (configuration 10) with parent 27 to Build Manager
+.NET TP Worker(15)-638533789013123572: Request 29(10) (nr 2) received and activated.
+.NET TP Worker(15)-638533789013129559: ERS: Active request is now 29(10) (nr 2).
+.NET TP Worker(15)-638533789013133069: ERS: Active request is now 29(10) (nr 2).
+.NET TP Worker(17)-638533789013137425: ERS: Request 29(10) (nr 2) is marked as complete.
+.NET TP Worker(17)-638533789013140042: ERS: Request 29(10) (nr 2) is being removed from the requests list.
+.NET TP Worker(17)-638533789013142684: ERS: Request is now 29(10) (nr 2) has had its builder cleaned up.
+.NET TP Worker(17)-638533789013144745: RRC: Reporting result for request 29(10) (nr 2).
+.NET TP Worker(17)-638533789013188103: Request 27(9) (nr 35) is no longer waiting on nr 2 (UBR).  Results are Success.
+.NET TP Worker(17)-638533789013190738: Request 27(9) (nr 35) is now proceeding from current state Ready.
+.NET TP Worker(17)-638533789013193678: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(17)-638533789013196232: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(17)-638533789017249633: Sending node request 3 (configuration 10) with parent 27 to Build Manager
+.NET TP Worker(7)-638533789017275283: Request 30(10) (nr 3) received and activated.
+.NET TP Worker(7)-638533789017279701: ERS: Active request is now 30(10) (nr 3).
+.NET TP Worker(7)-638533789017282301: ERS: Active request is now 30(10) (nr 3).
+.NET TP Worker(11)-638533789017377462: ERS: Request 30(10) (nr 3) is marked as complete.
+.NET TP Worker(11)-638533789017380834: ERS: Request 30(10) (nr 3) is being removed from the requests list.
+.NET TP Worker(11)-638533789017383640: ERS: Request is now 30(10) (nr 3) has had its builder cleaned up.
+.NET TP Worker(11)-638533789017386146: RRC: Reporting result for request 30(10) (nr 3).
+.NET TP Worker(18)-638533789017419902: Request 27(9) (nr 35) is no longer waiting on nr 3 (UBR).  Results are Success.
+.NET TP Worker(18)-638533789017424309: Request 27(9) (nr 35) is now proceeding from current state Ready.
+.NET TP Worker(18)-638533789017427549: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(18)-638533789017430365: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(18)-638533789032500834: Sending node request 4 (configuration 10) with parent 27 to Build Manager
+.NET TP Worker(11)-638533789032582521: Request 31(10) (nr 4) received and activated.
+.NET TP Worker(11)-638533789032586379: ERS: Active request is now 31(10) (nr 4).
+.NET TP Worker(11)-638533789032588810: ERS: Active request is now 31(10) (nr 4).
+.NET TP Worker(18)-638533789032722237: ERS: Request 31(10) (nr 4) is marked as complete.
+.NET TP Worker(18)-638533789032726946: ERS: Request 31(10) (nr 4) is being removed from the requests list.
+.NET TP Worker(18)-638533789032752184: ERS: Request is now 31(10) (nr 4) has had its builder cleaned up.
+.NET TP Worker(18)-638533789032753933: RRC: Reporting result for request 31(10) (nr 4).
+.NET TP Worker(18)-638533789032784616: Request 27(9) (nr 35) is no longer waiting on nr 4 (UBR).  Results are Success.
+.NET TP Worker(18)-638533789032786647: Request 27(9) (nr 35) is now proceeding from current state Ready.
+.NET TP Worker(18)-638533789032788978: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(18)-638533789032792105: ERS: Active request is now 27(9) (nr 35).
+.NET TP Worker(15)-638533789036308173: ERS: Request 27(9) (nr 35) is marked as complete.
+.NET TP Worker(15)-638533789036311264: ERS: Request 27(9) (nr 35) is being removed from the requests list.
+.NET TP Worker(15)-638533789036313724: ERS: Request is now 27(9) (nr 35) has had its builder cleaned up.
+.NET TP Worker(15)-638533789036315841: RRC: Reporting result for request 27(9) (nr 35).
+.NET TP Worker(15)-638533789036808495: Request 32(8) (nr 36) received and activated.
+.NET TP Worker(15)-638533789036819097: ERS: Active request is now 32(8) (nr 36).
+.NET TP Worker(15)-638533789036822946: ERS: Active request is now 32(8) (nr 36).
+.NET TP Worker(18)-638533789036894828: ERS: Request 32(8) (nr 36) is marked as complete.
+.NET TP Worker(18)-638533789036897666: ERS: Request 32(8) (nr 36) is being removed from the requests list.
+.NET TP Worker(18)-638533789036900267: ERS: Request is now 32(8) (nr 36) has had its builder cleaned up.
+.NET TP Worker(18)-638533789036903057: RRC: Reporting result for request 32(8) (nr 36).
+.NET TP Worker(7)-638533789042450698: CFB: Cleaning up build.  Requests Count 0  Status Idle
