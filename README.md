@@ -2,7 +2,7 @@
 
 ## versions
 
-* visual studio: 17.10.1
+* visual studio: 17.10.2
 * dotnet --version: 8.0.300
 * affected project: blazor
 * edge: 125.0.2535.79

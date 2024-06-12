@@ -1,0 +1,15 @@
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588088256 +    1,4883ms: Waiting for connection 900000 ms...
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588182257 +    9,4001ms: Parent started connecting. Reading handshake from parent
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588188593 +    0,6336ms: Building handshake for node type X64, NodeReuse, (version 1): options 16777228.
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588190601 +    0,2008ms: Handshake salt is 
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588200197 +    0,9596ms: Tools directory root is C:\Program Files\dotnet\sdk\8.0.300
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588332148 +   13,1951ms: Successfully connected to parent.
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588339006 +    0,6858ms: Changing link status from Inactive to Active
+OutOfProc Endpoint Packet Pump (TID 6) 638538019588345843 +    0,6837ms: Entering read loop.
+ (TID 1) 638538019833597624 + 24525,178ms: Shutting down with reason: BuildCompleteReuse, and exception: .
+OutOfProc Endpoint Packet Pump (TID 6) 638538019833632338 +    3,4714ms: Disconnecting voluntarily
+OutOfProc Endpoint Packet Pump (TID 6) 638538019833637616 +    0,5278ms: Changing link status from Active to Failed
+OutOfProc Endpoint Packet Pump (TID 6) 638538019833643500 +    0,5884ms: Ending read loop
+ (TID 1) 638538019833651070 +     0,757ms: Changing link status from Failed to Inactive
+ (TID 1) 638538019833976130 +    32,506ms: Shut down complete.
+OutOfProc Endpoint Packet Pump (TID 14) 638538019834010164 +    3,4034ms: Waiting for connection 900000 ms...
