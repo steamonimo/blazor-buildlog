@@ -1,16 +1,16 @@
-Scheduler state at timestamp 638538019549455815:
+Scheduler state at timestamp 638546569930451116:
 ------------------------------------------------
 Unscheduled requests:
   0: [-1] Unscheduled (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
-Scheduler state at timestamp 638538019549552693:
+Scheduler state at timestamp 638546569930516310:
 ------------------------------------------------
 Node 1 Active (0 executing) (1 assigned requests, 1 configurations)
   0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019556114916:
+Scheduler state at timestamp 638546569935450380:
 ------------------------------------------------
 Node 1 Active (1 executing) (2 assigned requests, 2 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -21,14 +21,14 @@ Node 1 Active (1 executing) (2 assigned requests, 2 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019556670982:
+Scheduler state at timestamp 638546569936240464:
 ------------------------------------------------
 Node 1 Active (0 executing) (1 assigned requests, 2 configurations)
   0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019557197414:
+Scheduler state at timestamp 638546569936475026:
 ------------------------------------------------
 Node 1 Active (2 executing) (2 assigned requests, 2 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -39,7 +39,7 @@ Node 1 Active (2 executing) (2 assigned requests, 2 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019557627171:
+Scheduler state at timestamp 638546569936546316:
 ------------------------------------------------
 Node 1 Active (3 executing) (3 assigned requests, 3 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -54,7 +54,7 @@ Node 1 Active (3 executing) (3 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019558853355:
+Scheduler state at timestamp 638546569937728189:
 ------------------------------------------------
 Node 1 Active (4 executing) (4 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -73,7 +73,7 @@ Node 1 Active (4 executing) (4 assigned requests, 4 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019559413172:
+Scheduler state at timestamp 638546569938282203:
 ------------------------------------------------
 Node 1 Active (3 executing) (3 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -88,7 +88,7 @@ Node 1 Active (3 executing) (3 assigned requests, 4 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019559492669:
+Scheduler state at timestamp 638546569938343895:
 ------------------------------------------------
 Node 1 Active (2 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -99,14 +99,14 @@ Node 1 Active (2 executing) (2 assigned requests, 4 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019559554813:
+Scheduler state at timestamp 638546569938412375:
 ------------------------------------------------
 Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
   0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019559600562:
+Scheduler state at timestamp 638546569938456245:
 ------------------------------------------------
 Node 1 Active (5 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -120,7 +120,7 @@ Unscheduled requests:
   6: [1] Unscheduled (5)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (_IsProjectRestoreSupported)
     >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
-Scheduler state at timestamp 638538019559634667:
+Scheduler state at timestamp 638546569938490563:
 ------------------------------------------------
 Node 1 Active (6 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -131,14 +131,14 @@ Node 1 Active (6 executing) (2 assigned requests, 4 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019559674627:
+Scheduler state at timestamp 638546569938522065:
 ------------------------------------------------
 Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
   0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019559738701:
+Scheduler state at timestamp 638546569938584189:
 ------------------------------------------------
 Node 1 Active (7 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -155,7 +155,7 @@ Unscheduled requests:
   9: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
     >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
-Scheduler state at timestamp 638538019561065895:
+Scheduler state at timestamp 638546569939830194:
 ------------------------------------------------
 Node 1 Active (8 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -169,7 +169,7 @@ Unscheduled requests:
   9: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateRestoreGraphProjectEntry)
     >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
-Scheduler state at timestamp 638538019561263257:
+Scheduler state at timestamp 638546569940047591:
 ------------------------------------------------
 Node 1 Active (9 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -180,14 +180,14 @@ Node 1 Active (9 executing) (2 assigned requests, 4 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019561443028:
+Scheduler state at timestamp 638546569940253260:
 ------------------------------------------------
 Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
   0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019561474733:
+Scheduler state at timestamp 638546569940299028:
 ------------------------------------------------
 Node 1 Active (10 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -204,7 +204,7 @@ Unscheduled requests:
   12: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
     >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
-Scheduler state at timestamp 638538019561548887:
+Scheduler state at timestamp 638546569940397233:
 ------------------------------------------------
 Node 1 Active (11 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -218,7 +218,7 @@ Unscheduled requests:
   12: [1] Unscheduled (3)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (_GenerateProjectRestoreGraph)
     >0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
-Scheduler state at timestamp 638538019561637857:
+Scheduler state at timestamp 638546569940484335:
 ------------------------------------------------
 Node 1 Active (12 executing) (2 assigned requests, 4 configurations)
   0: [1] RUNNING Blocked (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
@@ -229,21 +229,21 @@ Node 1 Active (12 executing) (2 assigned requests, 4 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019561723222:
+Scheduler state at timestamp 638546569940577798:
 ------------------------------------------------
 Node 1 Active (0 executing) (1 assigned requests, 4 configurations)
   0: [1] RUNNING Executing (2)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Restore)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019582747780:
+Scheduler state at timestamp 638546571041003628:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 5 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019585914370:
+Scheduler state at timestamp 638546571043773482:
 ------------------------------------------------
 Node 1 Active (14 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -257,7 +257,7 @@ Unscheduled requests:
   15: [-1] Unscheduled (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj (GetTargetFrameworks)
     >13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
 
-Scheduler state at timestamp 638538019588358079:
+Scheduler state at timestamp 638546571045890961:
 ------------------------------------------------
 Node 1 Active (14 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -273,7 +273,7 @@ Node 2 Active (15 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019588373571:
+Scheduler state at timestamp 638546571045907514:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -289,7 +289,7 @@ Node 2 Active (15 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019593312349:
+Scheduler state at timestamp 638546571050861078:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -300,7 +300,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019593711137:
+Scheduler state at timestamp 638546571051186457:
 ------------------------------------------------
 Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -316,7 +316,7 @@ Node 2 Active (17 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019594784695:
+Scheduler state at timestamp 638546571052216805:
 ------------------------------------------------
 Node 1 Idle (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -342,7 +342,7 @@ Unscheduled requests:
   17: [2] RUNNING Unscheduled (8)C:\Development\dqs\LibraryDQS\LibraryDqs\LibraryDqs.csproj ()
     >16: [1] RUNNING Blocked (7)C:\Development\dqs\CoeDQS\client\CoeDqs.Client.csproj ()
 
-Scheduler state at timestamp 638538019602871583:
+Scheduler state at timestamp 638546571101315874:
 ------------------------------------------------
 Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -357,7 +357,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019602973863:
+Scheduler state at timestamp 638546571101395098:
 ------------------------------------------------
 Node 1 Idle (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -377,7 +377,7 @@ Node 2 Active (18 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019603025542:
+Scheduler state at timestamp 638546571101441870:
 ------------------------------------------------
 Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -392,7 +392,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019610808944:
+Scheduler state at timestamp 638546571131554322:
 ------------------------------------------------
 Node 1 Idle (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -412,7 +412,7 @@ Node 2 Active (19 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019610864707:
+Scheduler state at timestamp 638546571131626642:
 ------------------------------------------------
 Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -427,7 +427,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019610927198:
+Scheduler state at timestamp 638546571131680075:
 ------------------------------------------------
 Node 1 Idle (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -447,7 +447,7 @@ Node 2 Active (20 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019610994448:
+Scheduler state at timestamp 638546571131758809:
 ------------------------------------------------
 Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -462,7 +462,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019618293386:
+Scheduler state at timestamp 638546571137095974:
 ------------------------------------------------
 Node 1 Idle (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -482,7 +482,7 @@ Node 2 Active (21 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019618351344:
+Scheduler state at timestamp 638546571137146940:
 ------------------------------------------------
 Node 1 Active (16 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -497,7 +497,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019619967630:
+Scheduler state at timestamp 638546571137842007:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -508,7 +508,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019620004430:
+Scheduler state at timestamp 638546571137885908:
 ------------------------------------------------
 Node 1 Active (22 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -523,7 +523,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019620039376:
+Scheduler state at timestamp 638546571137930106:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -534,7 +534,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019682329319:
+Scheduler state at timestamp 638546571166278881:
 ------------------------------------------------
 Node 1 Active (23 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -549,7 +549,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019682364196:
+Scheduler state at timestamp 638546571166314278:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -560,7 +560,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019682422942:
+Scheduler state at timestamp 638546571166352858:
 ------------------------------------------------
 Node 1 Active (24 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -575,7 +575,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019683156664:
+Scheduler state at timestamp 638546571166638585:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -586,7 +586,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019690696159:
+Scheduler state at timestamp 638546571172942251:
 ------------------------------------------------
 Node 1 Active (25 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -602,7 +602,7 @@ Node 2 Active (26 executing) (1 assigned requests, 1 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019691076436:
+Scheduler state at timestamp 638546571173078802:
 ------------------------------------------------
 Node 1 Active (25 executing) (2 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -617,7 +617,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019691594982:
+Scheduler state at timestamp 638546571173499146:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -628,7 +628,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019691712084:
+Scheduler state at timestamp 638546571173609575:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -644,7 +644,7 @@ Node 2 Active (27 executing) (1 assigned requests, 2 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019694744611:
+Scheduler state at timestamp 638546571176085831:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -664,7 +664,7 @@ Node 2 Active (28 executing) (2 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019695404737:
+Scheduler state at timestamp 638546571176740051:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -680,7 +680,7 @@ Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019695824669:
+Scheduler state at timestamp 638546571177166149:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -700,7 +700,7 @@ Node 2 Active (29 executing) (2 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019695886785:
+Scheduler state at timestamp 638546571177206325:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -716,7 +716,7 @@ Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019700300879:
+Scheduler state at timestamp 638546571180143147:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -736,7 +736,7 @@ Node 2 Active (30 executing) (2 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019700438586:
+Scheduler state at timestamp 638546571180315541:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -752,7 +752,7 @@ Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019818544083:
+Scheduler state at timestamp 638546571354523752:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -772,7 +772,7 @@ Node 2 Active (31 executing) (2 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019818870373:
+Scheduler state at timestamp 638546571354800724:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -788,7 +788,7 @@ Node 2 Active (27 executing) (1 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019826261647:
+Scheduler state at timestamp 638546571413747810:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -799,7 +799,7 @@ Top-level requests causing this node to be idle:
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019826343954:
+Scheduler state at timestamp 638546571413813761:
 ------------------------------------------------
 Node 1 Idle (1 assigned requests, 6 configurations)
   13: [1] RUNNING Blocked (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -815,7 +815,7 @@ Node 2 Active (32 executing) (1 assigned requests, 3 configurations)
 
 No unscheduled requests.
 
-Scheduler state at timestamp 638538019826457960:
+Scheduler state at timestamp 638546571413972295:
 ------------------------------------------------
 Node 1 Active (13 executing) (1 assigned requests, 6 configurations)
   13: [1] RUNNING Executing (6)C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj (Publish)
@@ -834,7 +834,7 @@ PublishDir = "C:\Development\dqs\CoeDQS_publish"
 _CommandLineDefinedOutputPath = "true"
 Configuration = "Release"
 DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
-MSBuildRestoreSessionId = "5ea56a2e-dd9f-452f-9c42-ca3954b025ad"
+MSBuildRestoreSessionId = "b8711de0-aefc-4218-b47c-1015e5843e0f"
 MSBuildIsRestoring = "True"
 
 Config 3 Node 1 TV: Current File C:\Development\dqs\CoeDQS\server\CoeDqs.Server.csproj
@@ -843,7 +843,7 @@ PublishDir = "C:\Development\dqs\CoeDQS_publish"
 _CommandLineDefinedOutputPath = "true"
 Configuration = "Release"
 DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
-MSBuildRestoreSessionId = "5ea56a2e-dd9f-452f-9c42-ca3954b025ad"
+MSBuildRestoreSessionId = "b8711de0-aefc-4218-b47c-1015e5843e0f"
 MSBuildIsRestoring = "True"
 ExcludeRestorePackageImports = "true"
 
@@ -853,7 +853,7 @@ PublishDir = "C:\Development\dqs\CoeDQS_publish"
 _CommandLineDefinedOutputPath = "true"
 Configuration = "Release"
 DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
-MSBuildRestoreSessionId = "5ea56a2e-dd9f-452f-9c42-ca3954b025ad"
+MSBuildRestoreSessionId = "b8711de0-aefc-4218-b47c-1015e5843e0f"
 MSBuildIsRestoring = "True"
 ExcludeRestorePackageImports = "true"
 
@@ -863,7 +863,7 @@ PublishDir = "C:\Development\dqs\CoeDQS_publish"
 _CommandLineDefinedOutputPath = "true"
 Configuration = "Release"
 DOTNET_CLI_DISABLE_PUBLISH_AND_PACK_RELEASE = "true"
-MSBuildRestoreSessionId = "5ea56a2e-dd9f-452f-9c42-ca3954b025ad"
+MSBuildRestoreSessionId = "b8711de0-aefc-4218-b47c-1015e5843e0f"
 MSBuildIsRestoring = "True"
 ExcludeRestorePackageImports = "true"
 
